@@ -1,4 +1,4 @@
-ackage org.openshift;
+package org.openshift;
 
 import java.sql.Connection; 
 import java.sql.DriverManager; 
