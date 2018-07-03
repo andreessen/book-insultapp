@@ -6,7 +6,7 @@ import javax.ws.rs.GET;
 import javax.ws.rs.Path;
 import javax.ws.rs.Produces;
 
-@RequestScoped @Path("/insult")
+@RequestScoped @Path("/insults")
 public class InsultResource {
 	@GET()
 	@Produces("application/json")
